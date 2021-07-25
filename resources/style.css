@@ -1,0 +1,32 @@
+*{
+  font-family: "verdana", sans-serif;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+
+div a {
+  color: aquamarine;
+  font-size: 16px;
+  margin: 10em;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+span {
+  font-size: 21px;
+  color: gray;
+}
